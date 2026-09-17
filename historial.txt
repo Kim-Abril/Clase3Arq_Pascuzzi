@@ -1,0 +1,66 @@
+    1  pwd
+    2  whoami
+    3  who
+    4  id
+    5  w
+    6  last
+    7  uname -a
+    8  exit
+    9  whoami
+   10  who
+   11  id
+   12  w
+   13  last
+   14  uname -a
+   15  cat/proc/cpuinfo
+   16  cat/proc/meminfo
+   17  cat/proc/partitions
+   18  free -h
+   19  df -h
+   20  lsb_release -a
+   21  exit
+   22  whoami
+   23  who
+   24  id
+   25  w
+   26  last
+   27  uname -a
+   28  cat /proc/cpuinfo
+   29  cat /proc/partitions
+   30  cat /proc/meminfo
+   31  free -h
+   32  df -h
+   33  lsb_release -a
+   34  lsblk
+   35  lscpu
+   36  ps aux
+   37  top
+   38  history
+   39  exit
+   40  ssh-keygen -t ed25519
+   41  ls -l
+   42  ls -l .ssh/
+   43  ls -l a
+   44  ls -la
+   45  cd .ssh
+   46  ls -l
+   47  cat id_ed25519.pub
+   48  cd ..
+   49  mkdir clase3
+   50  ls -l
+   51  cd clase3
+   52  cd ..
+   53  cd clase3
+   54  clear
+   55  cd ..
+   56  exit
+   57  ls -l
+   58  cd clase3/
+   59  git clone git@github.com:Kim-Abril/Clase3Arq_Pascuzzi.git
+   60  ls -l
+   61  cd Clase3Arq_Pascuzzi
+   62  pwd
+   63  ls -l
+   64  ls -la
+   65  git status
+   66  history > historial.txt
